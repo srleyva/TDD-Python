@@ -1,0 +1,7 @@
+*.pyc
+db.json
+maintenance_api.egg-info
+.tox
+htmlcov/
+.cache/v
+.coverage
